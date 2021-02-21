@@ -23,7 +23,7 @@ post the link after the hackathon is over].
 
 PS: we hardcoded the user-input values because the time was tight.
 
-Credits:
+## Credits
 
 https://www.tensorflow.org/lite/guide/android
 
