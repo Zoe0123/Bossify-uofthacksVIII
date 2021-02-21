@@ -13,6 +13,10 @@ The platform has a transparent rating system making it easy to find quality free
 
 It's a win-win situation.
 
+## languages and Platforms
+Java, Python, Tensorflow, Tensorflow Lite
+Android Studio (build the mobile app), Google Colab (train the neural network)
+
 ## Mimimum viable product
 Since we don't have time to create the entire app, we choose to implement the key 
 feature of our app in this MVP, which is an AI algorithm that takes in consideration 
