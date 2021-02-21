@@ -26,6 +26,7 @@ PS: we hardcoded the user-input values because the time was tight.
 ## Credits
 
 https://www.tensorflow.org/lite/guide/android
+https://www.youtube.com/watch?v=V0AETAjxqLI
 
 
 
