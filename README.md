@@ -15,6 +15,7 @@ It's a win-win situation.
 
 ## languages and Platforms
 Java, Python, Tensorflow, Tensorflow Lite
+
 Android Studio (build the mobile app), Google Colab (train the neural network)
 
 ## Mimimum viable product
