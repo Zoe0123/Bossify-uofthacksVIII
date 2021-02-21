@@ -28,6 +28,6 @@ PS: we hardcoded the user-input values because the time was tight.
 https://www.tensorflow.org/lite/guide/android
 https://www.youtube.com/watch?v=V0AETAjxqLI
 
-## Author
+## Authors
 Eunice Yan, Zoey Zhou
 
