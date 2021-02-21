@@ -1,4 +1,4 @@
-# about our UofT Hacks project
+# About our UofT Hacks project
 
 ## Inspiration
 We were inspired by the resilience of freelancers, particularly creative designers, during the pandemic. 
