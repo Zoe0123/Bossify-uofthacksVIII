@@ -21,6 +21,8 @@ and splits out a reasonable price. Because it's the MVP, we have designed the us
 but if we were to continue this project, we would improve it tremendously according to our designs in figma [will
 post the link after the hackathon is over]. 
 
+PS: we hardcoded the user-input values because the time was tight.
+
 Credits:
 
 https://www.tensorflow.org/lite/guide/android
