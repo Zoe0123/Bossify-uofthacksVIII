@@ -35,5 +35,5 @@ https://www.tensorflow.org/lite/guide/android
 https://www.youtube.com/watch?v=V0AETAjxqLI
 
 ## Authors
-Eunice Yan, Zoey Zhou
+Eunice Yan, Zoe Zhou
 
