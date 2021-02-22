@@ -37,3 +37,7 @@ https://www.youtube.com/watch?v=V0AETAjxqLI
 ## Authors
 Eunice Yan, Zoe Zhou
 
+## Complete project link
+
+https://devpost.com/software/bossify
+
